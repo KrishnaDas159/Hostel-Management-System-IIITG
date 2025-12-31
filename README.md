@@ -86,9 +86,3 @@ The Hostel Management System digitizes core hostel activities such as student re
 
 ---
 
-## 🚀 How to Run Locally
-
-1. Install **XAMPP / WAMP / LAMP**
-2. Clone the repository:
-   ```bash
-   git clone <repository-url>
